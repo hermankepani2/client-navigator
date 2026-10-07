@@ -17,6 +17,7 @@ It uses information supplied by the user or verifiable public sources. It makes 
 ## Project links
 
 - **Public PartyRock app:** [Open Client Navigator](https://partyrock.aws/u/kepanidigital/5PL4GInuz/Client-Navigator)
+- **Gemini Gem:** [Open Client Navigator on Gemini](https://gemini.google.com/gem/13hs868c2TpJcswJjhPQHwm97V46dBESd?usp=sharing)
 - **Notion project record:** [Client Navigator | Project & App Links](https://app.notion.com/p/3f21d674cf608175b443fa1a76322d22)
 
 ## Workflow
@@ -38,4 +39,4 @@ It uses information supplied by the user or verifiable public sources. It makes 
 
 ## Project status
 
-The PartyRock app is public. This repository documents the project and links to the app; it does not contain the PartyRock application's source code. Other public project links will be added after they are verified.
+The PartyRock app is public. This repository documents the project and links to its PartyRock app, Gemini Gem, and Notion project record; it does not contain the PartyRock application's source code.
